@@ -1,2 +1,2 @@
---> python version > 3
---> openCV
+1. python == version 3.0.0 +
+2. openCV
